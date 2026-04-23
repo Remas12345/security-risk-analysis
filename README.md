@@ -24,4 +24,4 @@ Developed a risk prioritization model based on impact and likelihood to support 
 ISO 27001 | NIST CSF | Saudi NCA | PDPL  
 
 ### Note
-Academic case study based on simulated findings.
+This project is an academic case study simulating a real-world enterprise security assessment, including vulnerability analysis, risk prioritization, and mitigation planning.
