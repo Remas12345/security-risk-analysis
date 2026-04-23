@@ -1,8 +1,5 @@
 # security-risk-analysis
 Enterprise IT Security Assessment &amp; Risk Analysis including vulnerability assessment, risk prioritization, and mitigation strategies.
-# security-risk-analysis
-
-## Enterprise IT Security Assessment & Risk Analysis
 
 ### Overview
 Identified and prioritized critical security risks within a telecom-scale IT infrastructure, focusing on vulnerability assessment, risk analysis, and mitigation planning.
